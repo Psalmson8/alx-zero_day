@@ -1,1 +1,1 @@
-my first readme
+Coding is not for lazy ass
